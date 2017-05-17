@@ -1,3 +1,4 @@
 # BOTONES-
 LIZ, BYRON, PAUL, LUIS, DAVID
-def hello();
+def hello():
+    print('hola mundo')
