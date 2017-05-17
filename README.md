@@ -7,4 +7,4 @@ def hello():
 from tkinter import *
 
 tk = Tk()
-btn = Button(tk, text="Click Aqui", command=hello )
+btn = Button(tk, text="Click Aqui", command=hello ):v
