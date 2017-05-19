@@ -7,6 +7,14 @@ def hello():
 from tkinter import *
 
 tk = Tk()
-btn = Button(tk, text="Click Aqui", command=hello ):v
+btn = Button(tk, text="Click Aqui", command=hello )
 btn.pack()
+
+
+
+
+
+
+
+
 
